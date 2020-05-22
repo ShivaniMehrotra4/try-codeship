@@ -9,3 +9,4 @@ redis:
   image: redis:3.2.11
 nginx:
   image: nginx
+
