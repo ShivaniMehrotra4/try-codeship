@@ -6,6 +6,6 @@ demo:
     - redis
     - postgres
 redis:
-  image: healthcheck/redis:alpine
+  image: redis:3.2.11
 postgres:
-  image: healthcheck/postgres:alpine
+  image: postgres:alpine
