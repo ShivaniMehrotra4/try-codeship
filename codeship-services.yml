@@ -7,5 +7,5 @@ demo:
     - postgres
 redis:
   image: redis:3.2.11
-postgres:
-  image: postgres:alpine
+nginx:
+  image: nginx
